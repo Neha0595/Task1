@@ -17,4 +17,4 @@ Code Files are:
     b) content.css: Define styles for content of web page, i.e., body of web page.
     c) footer.css: Define styles for footer of web page
 
-
+Task1.pdf file: It contain screenshot of web page design provided in mail, actual design generated and a little bit description of project.
